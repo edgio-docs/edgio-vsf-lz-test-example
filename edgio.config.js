@@ -1,5 +1,5 @@
 module.exports = {
-  connector: "@layer0/vue-storefront",
+  connector: "@edgio/vue-storefront",
   backends: {
     api: {
       domainOrIp: "api.commercetools.com",
